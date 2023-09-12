@@ -8,6 +8,9 @@ public class Variables {
         String name = "Bro";
         
         System.out.println("Hello "+name);
-        
+        System.out.println(symbol);
+        System.out.println(z);
+        System.out.println(y);
+        System.out.println(x);
        }
 }
